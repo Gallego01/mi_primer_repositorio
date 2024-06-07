@@ -1,3 +1,3 @@
 # mi_primer_repositorio
 
-# esto es un hola mundo en github
+esto es un hola mundo en github
